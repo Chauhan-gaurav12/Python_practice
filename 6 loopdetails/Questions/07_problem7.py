@@ -1,0 +1,33 @@
+# Write a program to print the following star pattern
+"""
+        *
+    *   *   *
+*   *   *   *   *   for n=3
+
+"""
+
+n=int(input("Enter the number for pattern: "))
+# for i in range(1,n+1):
+#     print(" "*(n-i),end="")             #
+#     print("*" *(2*i-1),end="")
+#     print("")
+# for i in range(n-1,0,-1):
+#     print(" "*(n-i),end="")
+#     print("*"* (2*i-1),end="")
+#     print("")
+
+
+"""
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+    This pattern code is above 
+ """
+
+# With the help of two nested loop have to made me 
