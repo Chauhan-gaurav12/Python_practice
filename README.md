@@ -13,9 +13,6 @@ This repository contains my Python practice programs, exercises, and notes creat
 * Object-Oriented Programming (OOP)
 * File Handling
 * Exception Handling
-* NumPy
-* Pandas
-* JSON Handling
 * Problem Solving
 
 ## Purpose
